@@ -56,11 +56,10 @@ body * {
   margin-top: 8px;
 }
 
-
 /*switch*/
 #switch {
   position: relative;
-  width: 64px; 
+  width: 64px;
   margin: 4px auto;
 }
 
@@ -85,7 +84,7 @@ body * {
 
 #switch span {
   display: block;
-  width: 64px; 
+  width: 64px;
   height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
